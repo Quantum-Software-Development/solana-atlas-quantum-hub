@@ -8,16 +8,20 @@
 # <p align="center">  🇶  [Solana Start Atlas Economics]() - 
 
 
+
 <br><br>
 
 
 https://github.com/user-attachments/assets/2edb1092-0642-4fbc-b969-10b008859a14
 
 
-##### [SEEKER DESCENTALIZED APP PHONE]() - LAUNCH SOLANA 2025 - IMPROVEMENT 2Q26
+##### <p align="center">   [SEEKER DESCENTALIZED APP PHONE]() - LAUNCH SOLANA 2025 - IMPROVEMENT 2Q26
 
 
 <br><br>
 
 
-##
+### Star Atlas Economic Paper [Here](https://github.com/Quantum-Software-Development/solana-start-atlas-economics/blob/ada9d48abf870db8e50136498067ad590ececbf7/star-atlas-economics-paper.pdf)
+
+
+<br><br>
