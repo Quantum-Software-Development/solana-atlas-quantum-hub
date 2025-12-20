@@ -66,19 +66,9 @@ The objective is to strengthen the network’s long-term security as new cryptog
 <br><br>
 
 
-## Seeker
+##  [SEEKER DESCENTALIZED APP PHONE]() - LAUNCH SOLANA 2025 - IMPROVEMENT 2Q26
 
-<br>
-
-##### <p align="center">   [SEEKER DESCENTALIZED APP PHONE]() - LAUNCH SOLANA 2025 - IMPROVEMENT 2Q26
-
-<br>
-
-
-https://github.com/user-attachments/assets/2edb1092-0642-4fbc-b969-10b008859a14
-
-
-📺 Demo
+<br><br>
 
 
 > [!TIP]
@@ -87,6 +77,26 @@ https://github.com/user-attachments/assets/2edb1092-0642-4fbc-b969-10b008859a14
 > * [KeyChai Code]() 𓋹 
 >  <br>
 >
+
+<br><br>
+
+🎥 Demo
+
+<br>
+
+https://github.com/user-attachments/assets/2edb1092-0642-4fbc-b969-10b008859a14
+
+
+<br><br>
+
+
+
+
+
+
+
+
+
 
 
 
@@ -110,14 +120,6 @@ https://github.com/user-attachments/assets/2edb1092-0642-4fbc-b969-10b008859a14
 <br><br>
 <br><br>
 <br><br>
-
-
-
-
-
-
-
-
 
 
 
