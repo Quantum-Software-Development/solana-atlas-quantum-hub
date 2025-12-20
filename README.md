@@ -23,17 +23,53 @@ https://github.com/user-attachments/assets/fc672bf0-0746-4a45-a51c-766cad34beb5
 ##### <p align="center"> Let's Dance Galera Solana Remix - video by Fabi
 
 
-
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
 <br><br>
 
 
+> [!TIP]
+>  
+> ###  ᓚᘏᗢ  Solana & Partners | key Repos
+>  <br>
+>
+> * [Repo]() <br>
+> * [Repo]()
+> * [Repo]()    <br>
+> * [Repo]()
+> * [Repo]()    <br>
+> * [Repo]()   <br>
+> * Repo]()  
+> * [Repo]()    <br>
+> * [Repo]()    <br>
+> * [Repo]()   <br>
+> *
+> 
 
-## [Solana Quantum Computing]()  Via [Project Eleeven]() - Cryptographic Risks Develop - Core Infrastructure -  Deployed a Working Post-Quantum
+
+<br><br>
+
+
+> [!TIP]
+>  
+> ### 🦅Solana & Partners | Key Links 
+>  <br>
+>
+> * [XXX]()
+> * [XXX]()
+> * [XXX]()
+> * [XXX]()
+
+
+
+
+
+
+
+
+
+
+<br><br>
+
+## [Solana Quantum Computing]()  Via [Project Eleeven]() - Cryptographic  Risks Develop - Core Infrastructure -  Deployed a Working Post-Quantum
 
 <br>
 
@@ -76,7 +112,7 @@ The objective is to strengthen the network’s long-term security as new cryptog
 > * [Repo]()  ᓚᘏᗢ  <br>
 > * [KeyChai Code]() 𓋹 
 >  <br>
->
+
 
 <br><br>
 
