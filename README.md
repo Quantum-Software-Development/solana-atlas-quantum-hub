@@ -68,7 +68,7 @@ https://github.com/user-attachments/assets/fc672bf0-0746-4a45-a51c-766cad34beb5
 > * [**Matrica**](https://matrica.io/home)
 > * [Z.AI - **Top-Tier on the Code Arena leaderboard**](https://z.ai/subscribe?ic=8JVLJQFSKB&utm_source=aitmpl.com&utm_medium=banner&utm_campaign=partnership&popup=false)
 > * [Z.AI Chat - **Inspiring AGI to Benefit Humanity**](https://z.ai/chat)
-> * [**Dissonance** - Harmonic Solana Block Explorer 𓏴𓏵]()
+> * [**Dissonance** - Harmonic Solana Block Explorer 𓏴](https://explorer.harmonic.gg/?ps=20&s=7&f=all)
 > * [XXX]()
 > <br>
 > 
