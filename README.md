@@ -60,7 +60,7 @@ https://github.com/user-attachments/assets/fc672bf0-0746-4a45-a51c-766cad34beb5
 > * [Solana **Developers** - A manual for joining the Solana ecosystem](https://solana.com/developers)
 > * [Solana **Mobile**](https://intercom.help/solana-mobile/en/)
 > * [**Star Atlas** - DAO](https://govern.staratlas.com/)
-> * [Star Atlas **Economic Reports**(https://govern.staratlas.com/economy/economic-reports)
+> * [Star Atlas **Economic Reports**](https://govern.staratlas.com/economy/economic-reports)
 > * [**Blueshift**](https://stake.blueshift.gg/en)
 > * [Blueshift **Agentic Hackathon**](https://agentic-hackathon.blueshift.gg/)
 > * [Blueshift **Learning**](https://learn.blueshift.gg/en)
