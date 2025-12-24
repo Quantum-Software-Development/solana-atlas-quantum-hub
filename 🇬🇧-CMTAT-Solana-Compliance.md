@@ -36,7 +36,7 @@ This specification explains how CMTAT’s required and optional features can be 
 
 ## Covered Topics
 
-### Architecture & Standards
+### [Architecture & Standards]()
 
 - CMTAT framework overview  
 - Solana Token Program (Original) vs Token-2022  
@@ -45,7 +45,7 @@ This specification explains how CMTAT’s required and optional features can be 
 
 <br>
 
-### Functional Mapping
+### [Functional Mapping]()
 
 - Transfers, minting, burning  
 - Forced transfers and forced burns (Permanent Delegate)  
@@ -55,7 +55,7 @@ This specification explains how CMTAT’s required and optional features can be 
 
 
 
-### Comparison with EVM / Solidity
+### [Comparison with EVM / Solidity]()
 
 - Access control differences  
 - ERC-20 `approve` vs Solana delegated authority  
@@ -65,7 +65,7 @@ This specification explains how CMTAT’s required and optional features can be 
 
 
 
-### Deployment Guide (Token-2022)
+### [Deployment Guide (Token-2022)]()
 
 - Local Solana setup  
 - Keypair and authority management  
